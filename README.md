@@ -19,7 +19,22 @@ IJCAI Executive Secretary Ms. Vesna Sabljakovic-Fritz, Vienna University of Tech
 ISBN (Online): 978-0-9992411-9-6
 
 
-[TOC]
+Contents
+- [Main Track](#main-track)
+  * [Agent-based and Multi-agent Systems](#agent-based-and-multi-agent-systems)
+  * [AI Ethics, Trust, Fairness](#ai-ethics--trust--fairness)
+  * [Computer Vision I](#computer-vision-i)
+  * [Computer Vision II](#computer-vision-ii)
+  * [Constraints and SAT](#constraints-and-sat)
+  * [Data Mining](#data-mining)
+  * [Knowledge Representation and Reasoning](#knowledge-representation-and-reasoning)
+  * [Machine Learning](#machine-learning)
+  * [Machine Learning Applications](#machine-learning-applications)
+  * [Multidisciplinary Topics and Applications](#multidisciplinary-topics-and-applications)
+  * [Natural Language Processing](#natural-language-processing)
+- [Sister Conferences Best Papers](#sister-conferences-best-papers)
+- [Doctoral Consortium](#doctoral-consortium)
+- [Demo Track](#demo-track)
 
 
 # Main Track
